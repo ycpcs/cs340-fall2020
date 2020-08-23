@@ -19,7 +19,7 @@ This is the website for CS 340, Fall 2020 at York College.  All information abou
 * [Practice Exams](practice/index.html)
 
 ## News
-* **Aug 25** &mdash; Welcome back! 
+* **Aug 25** &mdash; Welcome back! [Assignment 1](assign/assign01.html) is due Friday, Sept 4th by 11:59 PM, and [Assignment 2](assign/assign02.html) is due Monday, Sept 14th by 11:59 PM.
 
 
 <!--
